@@ -1,0 +1,12 @@
+C:\Users\stefa\OneDrive\Документи\Programming\For project, graphs 2\For project, graphs 2\bin\Debug\For project, graphs 2.exe
+C:\Users\stefa\OneDrive\Документи\Programming\For project, graphs 2\For project, graphs 2\bin\Debug\For project, graphs 2.pdb
+C:\Users\stefa\OneDrive\Документи\Programming\For project, graphs 2\For project, graphs 2\obj\Debug\For project, graphs 2.csproj.AssemblyReference.cache
+C:\Users\stefa\OneDrive\Документи\Programming\For project, graphs 2\For project, graphs 2\obj\Debug\For project, graphs 2.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Документи\Programming\For project, graphs 2\For project, graphs 2\obj\Debug\For project, graphs 2.exe
+C:\Users\stefa\OneDrive\Документи\Programming\For project, graphs 2\For project, graphs 2\obj\Debug\For project, graphs 2.pdb
+C:\Users\stefa\Downloads\New folder (2)\For project, graphs 2\bin\Debug\For project, graphs 2.exe
+C:\Users\stefa\Downloads\New folder (2)\For project, graphs 2\bin\Debug\For project, graphs 2.pdb
+C:\Users\stefa\Downloads\New folder (2)\For project, graphs 2\obj\Debug\For project, graphs 2.csproj.AssemblyReference.cache
+C:\Users\stefa\Downloads\New folder (2)\For project, graphs 2\obj\Debug\For project, graphs 2.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Downloads\New folder (2)\For project, graphs 2\obj\Debug\For project, graphs 2.exe
+C:\Users\stefa\Downloads\New folder (2)\For project, graphs 2\obj\Debug\For project, graphs 2.pdb
